@@ -1,0 +1,51 @@
+
+@keyframes move {
+  0% {
+    left: -100px;
+  }
+  100% {
+    left: calc(100% + 100px);
+  }
+}
+@keyframes moveReverse {
+  0% {
+    right: -100px;
+  }
+  100% {
+    right: calc(100% + 100px);
+  }
+}
+@keyframes moveDown {
+  0% {
+    top: -100px;
+    transform: scale(0);
+  }
+  50% {
+    top: calc(100% + 100px);
+    transform: scale(3);
+  }
+  75% {
+    transform: scale(0.3);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes sun-light {
+  from {
+    box-shadow: 0 0 20px red;
+  }
+  to {
+    box-shadow: 0 0 35px orange;
+  }
+}

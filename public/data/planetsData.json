@@ -1,0 +1,72 @@
+[
+  {
+    "name": "sun",
+    "src": "/images/sun.png",
+    "alt": "sun",
+    "id": 1,
+    "class": "sun"
+  },
+  {
+    "name": "mercury",
+    "src": "/images/mercury.png",
+    "alt": "mercury",
+    "id": 2,
+    "class": "mercuryOrbit"
+  },
+  {
+    "name": "venus",
+    "src": "/images/venus.png",
+    "alt": "venus",
+    "id": 3,
+    "class": "venusOrbit"
+  },
+  {
+    "name": "earth",
+    "src": "/images/earth.png",
+    "alt": "earth",
+    "id": 4,
+    "class": "earthOrbit"
+  },
+  {
+    "name": "mars",
+    "src": "/images/mars.png",
+    "alt": "mars",
+    "id": 5,
+    "class": "marsOrbit"
+  },
+  {
+    "name": "jupiter",
+    "src": "/images/jupiter.png",
+    "alt": "jupiter",
+    "id": 6,
+    "class": "jupiterOrbit"
+  },
+  {
+    "name": "saturn",
+    "src": "/images/saturn.png",
+    "alt": "saturn",
+    "id": 7,
+    "class": "saturnOrbit"
+  },
+  {
+    "name": "uranus",
+    "src": "/images/uranus.png",
+    "alt": "uranus",
+    "id": 8,
+    "class": "uranusOrbit"
+  },
+  {
+    "name": "neptune",
+    "src": "/images/neptune.png",
+    "alt": "neptune",
+    "id": 9,
+    "class": "neptuneOrbit"
+  },
+  {
+    "name": "pluto",
+    "src": "/images/pluto.png",
+    "alt": "pluto",
+    "id": 10,
+    "class": "plutoOrbit"
+  }
+]
